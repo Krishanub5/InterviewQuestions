@@ -1,0 +1,31 @@
+Rakuten tech round 1:
+2 interviewer (1 senior devops engineer & 1 vice manager)
+-----------------------------------------------------------------------------
+Date: 19-04-2022
+Time: 2:30 - 3:30 IST
+-------------------------------------------------------------------------------
+Position: Senior DevOps Engineer
+------------------------------------------------------------------------------
+1. Shared Library in Jenkins
+2. Inode
+3. RUN vs CMD
+4. CMD vs Entrypoint
+5. create your own rsync
+6. SSL works
+7. Slowness of Web application troubleshoot
+8. Log full for app partition- troubleshoot
+9. multibranch pipeline
+10. multistage pipeline
+11. How use prompt bypass of an ansible script in Jenkins pipeline
+12. What is the mechnanism of deploying ansible plays on 100+ hosts
+13. 1,2,3 handler is there. problem found in handler 3 . what will happen if we run the ansible playbook?
+14. how many ways to define variable? what are the precedence using the variable defination?
+15. precedence using ansible config file
+16. What is happen when you push docker file in dockerhub?
+17. Can we using a docker image for multiple project ? and how?
+18. how to configure ssl in kubernetes?
+19. what is headless service?
+20. suppose you /var/lib/docker is full but you don't run any docker container or you don't have any docker image, how to troubleshoot?
+21. how to pass user data in ansible playbook?
+22. service lifecycle in kubernetes
+23. differnce between tar & gzip
