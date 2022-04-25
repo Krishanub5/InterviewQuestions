@@ -1,0 +1,20 @@
+Accenture Singapore tech round 1:
+2 interviewer (1 principal devops engineer & 1 senior manager)
+-----------------------------------------------------------------------------
+Date: 25-04-2022
+Time: 12:30 - 1:00 IST
+-------------------------------------------------------------------------------
+Position: DevOps Specialist
+------------------------------------------------------------------------------
+
+1. Sonar Cube functionality
+2. Twist lock integration
+3. Azure pipelines functionality end-to-end
+4. What type of build you should perform docker build / azure container registry (acr) build?
+5. How pull mechnism works in azure devops for deployment?
+6. What are the steps in azure build
+7. what is deployment staging?
+8. How do you list helm chart?
+9. How to build and deploy a nodejs application in azure devops?
+10. Write a helm chat to deploy nodes application
+11. Write a terraform code to deploy node js application inside a AKS cluster
